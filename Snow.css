@@ -1,0 +1,29 @@
+body {
+	/*border:15px solid black;
+	border-radius:10px;
+	width:400px;
+	height:800px;*/
+	background-color:#99FFCC;
+}
+ul {
+	list-style-type:none;
+	position:fixed;	
+	margin:10px 10px 10px 10px;
+}
+li {
+	font-size:20px;
+	font-family:Tahoma;
+	font-weight:bold;
+	text-align:center;
+	display:inline-block;
+	color:#B8B8B8;
+	padding:5px;
+	border:5px solid #66CCFF;
+	border-radius: 10px 10px;
+	background-color:#CCFFFF;
+}
+img {
+	position:none;
+	width:100%;
+	height:100%;
+}
