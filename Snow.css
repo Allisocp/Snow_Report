@@ -23,6 +23,12 @@ ul {
 #first {
 	display:block;
 	background-color:#FF3344;
+	border-color:#66CCFF;
+}
+#second {
+	display:block;
+	background-color:#6699CC;
+	border-color:#66CCFF;
 }
 li {
 	font-size:20px;
