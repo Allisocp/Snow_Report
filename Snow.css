@@ -5,10 +5,24 @@ body {
 	height:800px;*/
 	background-color:#99FFCC;
 }
+/*The above was originally to make an html android emulator since the real emulator is still in troubleshooting*/
+a {
+	text-decoration:none;
+}
+/*a:visited {
+	color:red;
+}
+a:hover {
+	color:yellow;
+}*/
 ul {
 	list-style-type:none;
 	position:fixed;	
 	margin:10px 10px 10px 10px;
+}
+#first {
+	display:block;
+	background-color:#FF3344;
 }
 li {
 	font-size:20px;
@@ -21,6 +35,9 @@ li {
 	border:5px solid #66CCFF;
 	border-radius: 10px 10px;
 	background-color:#CCFFFF;
+}
+p {
+	position:relative;
 }
 img {
 	position:none;
